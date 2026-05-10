@@ -24,17 +24,7 @@
 ---
 
 ## Structure du projet
-grpc-tp7/
-├── captures/
-│   ├── sayhello.png       ← Test gRPC direct avec Postman
-│   └── proxy.png          ← Test via le reverse proxy HTTP
-├── node_modules/
-├── hello.proto            ← Définition du service gRPC
-├── server.js              ← Serveur gRPC (port 50051)
-├── client.js              ← Client gRPC
-├── proxy.js               ← Reverse proxy HTTP (port 3000)
-├── package.json
-└── README.md
+![Structure du projet](captures/structure.png)
 ---
 
 ## Installation
